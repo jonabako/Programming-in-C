@@ -1,0 +1,4 @@
+Sum = 15.700000
+Difference = 9.300000
+Product = 40.000000
+Devision = 3.906250
